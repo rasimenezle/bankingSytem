@@ -1,0 +1,3 @@
+9997738 transfer amount: 170.0 TL ,transferred_account: 1314359
+9997738 transfer amount: 170.0 TL ,transferred_account: 1314359
+9997738 deposit amount: 400 TL

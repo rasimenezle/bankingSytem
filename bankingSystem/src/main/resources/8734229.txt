@@ -1,0 +1,1 @@
+{ "name":"Abdullahh","surname": "Yavuz","email":"bootcamp@bootcamp.com","tc": "12121212121","number": "8734229","balance": "1540.0","lastModified":"1658064804206","type": "TL"}
